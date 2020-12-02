@@ -20,8 +20,8 @@
 
 [<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
 [<img align="left" alt="JavaFX" width="40px" src="javafx.png" />][java]
-[<img align="left" alt="JavaEE48" width="40px" src="j2ee96.png" />][javaee]
-[<img align="left" alt="JavaEE96" width="40px" src="j2ee96.svg" />][javaee]
+[<img align="left" alt="JavaEE48" width="70px" src="j2ee48.svg" />][javaee]
+[<img align="left" alt="JavaEE96" width="70px" src="j2ee96.svg" />][javaee]
 [<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][c]
 [<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][cplusplus]
 [<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" />][javascript]
