@@ -19,8 +19,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Java" width="60px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
-[<img align="left" alt="JavaFX" width="60px" src="javafx.png" />][java]
-[<img align="left" alt="JavaEE48" width="60px" src="j2ee48.svg" />][javaee]
+[<img align="left" alt="JavaFX" width="60px" src="javafx96.svg" />][java]
 [<img align="left" alt="JavaEE96" width="60px" src="j2ee96.svg" />][javaee]
 [<img align="left" alt="C" width="60px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][c]
 [<img align="left" alt="C++" width="60px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][cplusplus]
@@ -32,6 +31,10 @@
 [<img align="left" alt="XML" width="60px" src="https://img.icons8.com/nolan/64/xml.png" />][xml]
 [<img align="left" alt="Git" width="60px" src="https://img.icons8.com/color/48/000000/git.png" />][git]
 [<img align="left" alt="WordPress" width="60px" src="https://img.icons8.com/nolan/64/wordpress.png" />][wordpress]
+
+
+
+
 <br />
 <br />
 
