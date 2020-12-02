@@ -18,20 +18,20 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
-[<img align="left" alt="JavaFX" width="40px" src="javafx.png" />][java]
-[<img align="left" alt="JavaEE48" width="70px" src="j2ee48.svg" />][javaee]
-[<img align="left" alt="JavaEE96" width="70px" src="j2ee96.svg" />][javaee]
-[<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][c]
-[<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][cplusplus]
-[<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" />][javascript]
-[<img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" />][css]
-[<img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" />][html]
-[<img align="left" alt="PHP" width="40px" src="https://img.icons8.com/color/48/000000/php.png" />][php]
-[<img align="left" alt="SQL/PLSQL" width="40px" src="https://img.icons8.com/nolan/64/sql.png" />][sql]
-[<img align="left" alt="XML" width="40px" src="https://img.icons8.com/nolan/64/xml.png" />][xml]
-[<img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png" />][git]
-[<img align="left" alt="WordPress" width="40px" src="https://img.icons8.com/nolan/64/wordpress.png" />][wordpress]
+[<img align="left" alt="Java" width="60px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
+[<img align="left" alt="JavaFX" width="60px" src="javafx.png" />][java]
+[<img align="left" alt="JavaEE48" width="60px" src="j2ee48.svg" />][javaee]
+[<img align="left" alt="JavaEE96" width="60px" src="j2ee96.svg" />][javaee]
+[<img align="left" alt="C" width="60px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][c]
+[<img align="left" alt="C++" width="60px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][cplusplus]
+[<img align="left" alt="JavaScript" width="60px" src="https://img.icons8.com/color/48/000000/javascript.png" />][javascript]
+[<img align="left" alt="CSS" width="60px" src="https://img.icons8.com/color/48/000000/css3.png" />][css]
+[<img align="left" alt="HTML" width="60px" src="https://img.icons8.com/color/48/000000/html-5.png" />][html]
+[<img align="left" alt="PHP" width="60px" src="https://img.icons8.com/color/48/000000/php.png" />][php]
+[<img align="left" alt="SQL/PLSQL" width="60px" src="https://img.icons8.com/nolan/64/sql.png" />][sql]
+[<img align="left" alt="XML" width="60px" src="https://img.icons8.com/nolan/64/xml.png" />][xml]
+[<img align="left" alt="Git" width="60px" src="https://img.icons8.com/color/48/000000/git.png" />][git]
+[<img align="left" alt="WordPress" width="60px" src="https://img.icons8.com/nolan/64/wordpress.png" />][wordpress]
 <br />
 <br />
 
