@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-| ![<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />] | 
+| <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> | 
 |:--:| 
 | *Space* |
 
