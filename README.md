@@ -46,7 +46,6 @@ class HelloWorld {
 <br />
 <br />
 
----
 
 ### Latest project
 
