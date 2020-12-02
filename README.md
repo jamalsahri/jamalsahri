@@ -28,19 +28,19 @@ I ❤️ JAVA
 
 ### Skills:
 
-[<img align="left" alt="Java" width="60px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
-[<img align="left" alt="JavaFX" width="60px" src="javafx96.svg" />][java]
-[<img align="left" alt="JavaEE96" width="60px" src="j2ee96.svg" />][javaee]
-[<img align="left" alt="C" width="60px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][c]
-[<img align="left" alt="C++" width="60px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][cplusplus]
-[<img align="left" alt="JavaScript" width="60px" src="https://img.icons8.com/color/48/000000/javascript.png" />][javascript]
-[<img align="left" alt="CSS" width="60px" src="https://img.icons8.com/color/48/000000/css3.png" />][css]
-[<img align="left" alt="HTML" width="60px" src="https://img.icons8.com/color/48/000000/html-5.png" />][html]
-[<img align="left" alt="PHP" width="60px" src="https://img.icons8.com/color/48/000000/php.png" />][php]
-[<img align="left" alt="SQL/PLSQL" width="60px" src="https://img.icons8.com/nolan/64/sql.png" />][sql]
-[<img align="left" alt="XML" width="60px" src="https://img.icons8.com/nolan/64/xml.png" />][xml]
-[<img align="left" alt="Git" width="60px" src="https://img.icons8.com/color/48/000000/git.png" />][git]
-[<img align="left" alt="WordPress" width="60px" src="https://img.icons8.com/nolan/64/wordpress.png" />][wordpress]
+[<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
+[<img align="left" alt="JavaFX" width="30px" src="javafx96.svg" />][java]
+[<img align="left" alt="JavaEE96" width="30px" src="j2ee96.svg" />][javaee]
+[<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][c]
+[<img align="left" alt="C++" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][cplusplus]
+[<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />][javascript]
+[<img align="left" alt="CSS" width="30px" src="https://img.icons8.com/color/48/000000/css3.png" />][css]
+[<img align="left" alt="HTML" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png" />][html]
+[<img align="left" alt="PHP" width="30px" src="https://img.icons8.com/color/48/000000/php.png" />][php]
+[<img align="left" alt="SQL/PLSQL" width="30px" src="https://img.icons8.com/nolan/64/sql.png" />][sql]
+[<img align="left" alt="XML" width="30px" src="https://img.icons8.com/nolan/64/xml.png" />][xml]
+[<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />][git]
+[<img align="left" alt="WordPress" width="30px" src="https://img.icons8.com/nolan/64/wordpress.png" />][wordpress]
 
 
 
