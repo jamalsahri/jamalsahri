@@ -28,10 +28,9 @@
 [<img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" />]
 [<img align="left" alt="PHP" width="40px" src="https://img.icons8.com/color/48/000000/php.png" />]
 [<img align="left" alt="SQL/PLSQL" width="40px" src="https://img.icons8.com/nolan/64/sql.png" />]
-[<img align="left" alt="WordPress" width="40px" src="https://img.icons8.com/nolan/64/wordpress.png" />]
 [<img align="left" alt="XML" width="40px" src="https://img.icons8.com/nolan/64/xml.png" />]
 [<img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png" />]
-
+[<img align="left" alt="WordPress" width="40px" src="https://img.icons8.com/nolan/64/wordpress.png" />]
 <br />
 <br />
 
