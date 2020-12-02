@@ -24,7 +24,7 @@ class HelloWorld {
 
 <br />
 
-### Languages and Tools:
+### Skills:
 
 [<img align="left" alt="Java" width="60px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
 [<img align="left" alt="JavaFX" width="60px" src="javafx96.svg" />][java]
@@ -43,17 +43,6 @@ class HelloWorld {
 
 
 
-<br />
-<br />
-
-
-### Latest project
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-
----
 
 
 [linkedin]: https://www.linkedin.com/in/jamal-eddine-sahri/
