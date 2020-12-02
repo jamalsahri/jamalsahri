@@ -19,8 +19,8 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
-[<img align="left" alt="JavaFX" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][javafx]
-[<img align="left" alt="JavaEE" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][javaee]
+[<img align="left" alt="JavaFX" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjaxenter.com%2Fgetting-real-world-data-into-java-ui-controls-with-datafx-105862.html&psig=AOvVaw3A3Sj3Ag0zcg-DCSsPPTg2&ust=1607023320605000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJi9kMWCsO0CFQAAAAAdAAAAABAD" />][javafx]
+[<img align="left" alt="JavaEE" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fantoniogoncalves.org%2F2014%2F06%2F17%2Ffinally-java-ee-has-a-descent-logo%2F&psig=AOvVaw3iJS9uh2BKB192xmuTuD1z&ust=1607023372780000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDy8tyCsO0CFQAAAAAdAAAAABAD" />][javaee]
 [<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][c]
 [<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][cplusplus]
 [<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" />][javascript]
@@ -36,7 +36,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### Latest project
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
