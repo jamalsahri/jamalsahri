@@ -13,6 +13,8 @@ class HelloWorld {
         System.out.println("I Love JAVA"); 
     }
 }
+out:
+I ❤️ JAVA
 ```
 
 ### Connect with me, visit my social media accounts with a click on the button at the bottom:
