@@ -18,25 +18,19 @@
 
 ### Languages and Tools:
 
-| <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> | <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> | 
-|:--:| 
-| *Space* |
-
 [<img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][webdevplaylist]
-[<img align="left" alt="JavaFX" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="JavaEE" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="SQL/PLSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="XML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="JavaFX" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][webdevplaylist]
+[<img align="left" alt="JavaEE" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][webdevplaylist]
+[<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][cssplaylist]
+[<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />][jsplaylist]
+[<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />][reactplaylist]
+[<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />][webdevplaylist]
+[<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/color/48/000000/php.png" />][webdevplaylist]
+[<img align="left" alt="SQL/PLSQL" width="26px" src="https://img.icons8.com/nolan/64/sql.png" />][webdevplaylist]
+[<img align="left" alt="WordPress" width="26px" src="https://img.icons8.com/nolan/64/wordpress.png" />][webdevplaylist]
+[<img align="left" alt="XML" width="26px" src="https://img.icons8.com/nolan/64/xml.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />][webdevplaylist]
 
 <br />
 <br />
