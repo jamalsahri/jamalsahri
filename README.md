@@ -6,7 +6,7 @@
 - 👉 In few days, i will launch my personal website 😋. 👊 WordPress 👌 Elementor 😍
 - 👉 I am a fan of design & video editing
 - 👉 I’m also interested in gaming and entrepreneurship.
-<br/>
+
 ```
 class HelloWorld {
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ class HelloWorld {
     }
 }
 ```
-<br/>
+
 ### Connect with me, visit my social media accounts with a click on the button at the bottom:
 
 [<img align="left" alt="jamalsahri | Twitter" width="22px" src="https://img.icons8.com/nolan/64/twitter.png" />][twitter]
