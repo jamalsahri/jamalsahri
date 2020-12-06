@@ -1,6 +1,6 @@
 ### Hi there, I'm Jamal Eddine 👋
 
-## I'm a computer science enginnering student
+## I'm a computer science engineering student
 
 - 👉 I'm currently learning Hibernate & ReactJS.
 - 👉 In few days, i will launch my personal website 😋. 👊 WordPress 👌 Elementor 😍
