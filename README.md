@@ -19,10 +19,10 @@ I ❤️ JAVA
 
 ### Connect with me, visit my social media accounts with a click on the button at the bottom:
 
-[<img align="left" alt="jamalsahri | Twitter" width="22px" src="https://img.icons8.com/nolan/64/twitter.png" />][twitter]
-[<img align="left" alt="jamalsahri | LinkedIn" width="22px" src="https://img.icons8.com/nolan/64/linkedin.png" />][linkedin]
-[<img align="left" alt="jamalsahri | Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png" />][instagram]
-[<img align="left" alt="jamalsahri | Facebook" width="22px" src="https://img.icons8.com/nolan/64/facebook-new.png" />][facebook]
+[<img align="left" alt="jamalsahri | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="jamalsahri | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="jamalsahri | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="jamalsahri | Facebook" width="22px" src="https://img.icons8.com/fluent/96/000000/facebook-new.png" />][facebook]
 
 <br />
 
