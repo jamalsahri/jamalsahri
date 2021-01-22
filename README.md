@@ -2,7 +2,7 @@
 
 ## I'm a computer science engineering student
 
-- 👉 I'm currently learning Hibernate & ReactJS.
+/*- 👉 I'm currently learning Hibernate & ReactJS.*/
 - 👉 In few days, i will launch my personal website 😋. 👊 WordPress 👌 Elementor 😍
 - 👉 I am a fan of design & video editing
 - 👉 I’m also interested in gaming and entrepreneurship.
